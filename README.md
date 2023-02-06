@@ -2,14 +2,50 @@
 
 - Hoje trabalho com Quality Assurence.
 
+
+ 
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projetos</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://psmytxt.netlify.app/"><b>Photoshop my text</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/matefs/VERIFICAR-RODOVIAS-FRONTEND"><b>Verificar Rodovias conforme Arteris</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/matefs/calcular-juros-composto-banco-central"><b> Calculando juros composto conforme taxa SELIC </b></a></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/matefs/next-veiculos-app"><b>CRUD com veículos</b></a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matefs&theme=dark&show_icons=true)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+ 
+
+<h3>Tecnologias que uso para programar:</h3>
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+</p>
+
 
 
 <!--
