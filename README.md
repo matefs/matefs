@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, eu sou Mateus Schverz 👋
+
+- Hoje trabalho com Quality Assurence.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matefs&theme=dark&show_icons=true)
 
 <!--
 **matefs/matefs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
