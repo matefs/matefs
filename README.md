@@ -28,7 +28,7 @@
 
 
 
-<h3>Artigos que escrevi</h3>
+<h3>Artigos que escrevi:</h3>
 <ul>
   <li><a href="https://www.linkedin.com/pulse/como-automatizar-tarefas-repetitivas-seu-trabalho-mateus-schverz"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Como automatizar tarefas repetitivas no seu trabalho</b></a><br/><i> Crie atalhos e recursos para não precisar ficar sofrendo no escritório !</i></li> 
 </ul>
