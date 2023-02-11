@@ -1,6 +1,6 @@
 ### Olá, eu sou Mateus Schverz 👋
 
-- Hoje trabalho com Quality Assurence.
+- Hoje trabalho com Quality Assurance.
 
 
  
