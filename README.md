@@ -1,7 +1,6 @@
 ### Olá, eu sou **Mateus S.** 👋
 
 - Hoje trabalho com Quality Assurance.
-
  
 <table>
   <thead align="center">
