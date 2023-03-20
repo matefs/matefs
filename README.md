@@ -2,6 +2,7 @@
 
 - Hoje trabalho com Quality Assurance.
  
+ 
 <table>
   <thead align="center">
     <tr border: none;>
