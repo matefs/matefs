@@ -23,8 +23,7 @@
     </tr>
   </tbody>
 </table>
-
-
+ 
 
 <h3>Artigos que escrevi:</h3>
 <ul>
