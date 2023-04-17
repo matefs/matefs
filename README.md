@@ -32,7 +32,12 @@
 
 <hr>
 
+<h3>Vídeos que fiz:</h3>
+<ul>
+  <li><a href="https://youtu.be/ffUJqdvk-kY"><b><img src="https://www.seekpng.com/png/full/42-421000_open-fire-emoji-png.png" width="20" alt="new" />  5 Passos para testar uma API com cypress </b></a><br/><i> Aprenda criar testes automáticos de autenticação, exibição de registros e cadastro de usuários !</i></li> 
+</ul>
 
+<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matefs&theme=dark&show_icons=true)
 
