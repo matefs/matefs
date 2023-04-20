@@ -2,26 +2,27 @@
 
 - Hoje trabalho com Quality Assurance.
  
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projetos</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://psmytxt.netlify.app/"><b>Photoshop my text</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/matefs/VERIFICAR-RODOVIAS-FRONTEND"><b>Verificar Rodovias conforme Arteris</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/matefs/calcular-juros-composto-banco-central"><b> Calculando juros composto conforme taxa SELIC </b></a></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/matefs/MINHA-ASSINATURA-DIGITAL"><b>Minha assinatura digital</b></a></td>
-    </tr>
-  </tbody>
+<table style="border-collapse: collapse; width: 100%; height: 90px;" border="0">
+<tbody>
+<tr>
+<td style="width: 99.8273%; text-align: center;"><strong>🎁&nbsp;Projetos</strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 99.8273%; text-align: left; height: 18px;"><a href="https://psmytxt.netlify.app/" rel="nofollow"><strong>Photoshop my text</strong></a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 99.8273%; height: 18px;"><a href="https://github.com/matefs/VERIFICAR-RODOVIAS-FRONTEND"><strong>Verificar Rodovias conforme Arteris</strong></a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 99.8273%; height: 18px;"><a href="https://github.com/matefs/calcular-juros-composto-banco-central"><strong>Calculando juros composto conforme taxa SELIC</strong></a></td>
+</tr>
+<tr>
+<td style="width: 99.8273%;"><strong><a href="https://github.com/matefs/MINHA-ASSINATURA-DIGITAL">Minha assinatura digital</a></strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 99.8273%; height: 18px;"><strong><a href="https://github.com/matefs/identificador-cameras">Identificador de C&acirc;meras</a></strong></td>
+</tr>
+</tbody>
 </table>
  
 
