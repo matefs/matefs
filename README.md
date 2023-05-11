@@ -32,7 +32,6 @@
 </tbody>
 </table>
  
-
 <h3>Artigos que escrevi:</h3>
 <ul>
   <li><a href="https://www.linkedin.com/pulse/como-automatizar-tarefas-repetitivas-seu-trabalho-mateus-schverz"><b><img src="https://www.seekpng.com/png/full/42-421000_open-fire-emoji-png.png" width="20" alt="new" />  Como automatizar tarefas repetitivas no seu trabalho</b></a><br/><i> Crie atalhos e recursos para não precisar ficar sofrendo no escritório !</i></li> 
