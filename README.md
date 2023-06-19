@@ -57,7 +57,7 @@
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matefs&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matefs&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matefs&theme=dark&layout=compact&custom_title=Minhas%20linguagens%20mais%20utilizadas)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
