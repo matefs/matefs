@@ -1,7 +1,7 @@
 
 # **👨‍💻 Mateus Schverz**
 
-- Desenvolvedor Full Stack e Quality Assurance
+- Trabalho atualmente com Quality Assurance e tenho experiência em programação Full Stack.
 
 Permita-me falar um pouco sobre mim... Sou Mateus Schverz, um entusiasta da programação atualmente cursando Análise e Desenvolvimento de Sistemas. Com experiência na área de Quality Assurance e diversos projetos desenvolvidos, tenho habilidades tanto no frontend quanto no backend. 
 
