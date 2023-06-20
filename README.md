@@ -1,7 +1,22 @@
-### Olá, eu sou **Mateus S.** 👋
 
-- Hoje trabalho com Quality Assurance.
-   
+# **👨‍💻 Mateus Schverz**
+
+- Desenvolvedor Full Stack e Quality Assurance
+
+Permita-me falar um pouco sobre mim... Sou Mateus Schverz, um entusiasta da programação atualmente cursando Análise e Desenvolvimento de Sistemas. Com experiência na área de Quality Assurance e diversos projetos desenvolvidos, tenho habilidades tanto no frontend quanto no backend. 
+
+Aqui está um resumo das informações sobre mim:
+
+- 🔭 Atualmente, estou focado em aprimorar meus conhecimentos e buscar oportunidades na área de desenvolvimento.
+- 🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
+- 👯 Tenho interesse em contribuir em projetos que envolvam frontend e backend, utilizando tecnologias como NodeJS e React.
+- 💬 Sinta-se à vontade para me questionar sobre linguagens de programação, softskills e tecnologia em geral.
+- ⚡ Curiosidade: Na minha empresa, programo as APIs que utilizo para agilizar meus testes.
+ 
+
+Estou sempre em busca de novos desafios e oportunidades para continuar crescendo e contribuindo para a evolução da tecnologia.
+
+
 <table style="border-collapse: collapse; width: 100%; height: 90px;" border="0">
 <tbody>
 <tr align='center'>
