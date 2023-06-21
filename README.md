@@ -72,7 +72,7 @@ Estou sempre em busca de novos desafios e oportunidades para continuar crescendo
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matefs&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matefs&theme=dark&layout=compact&custom_title=Minhas%20linguagens%20mais%20utilizadas)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matefs&theme=dark&show_icons=true&custom_title=Status%20do%20meu%20Github) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matefs&theme=dark&layout=compact&custom_title=Linguagens%20mais%20utilizadas:)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
