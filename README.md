@@ -7,6 +7,7 @@ Permita-me falar um pouco sobre mim... Sou Mateus Schverz, um entusiasta da prog
 
 Aqui está um resumo das informações sobre mim:
 
+
 - 🔭 Atualmente, estou focado em aprimorar meus conhecimentos e buscar oportunidades na área de desenvolvimento.
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 👯 Tenho interesse em contribuir em projetos que envolvam frontend e backend, utilizando tecnologias como NodeJS e React.
