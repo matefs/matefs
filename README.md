@@ -17,47 +17,38 @@ Aqui está um resumo das informações sobre mim:
 
 Estou sempre em busca de novos desafios e oportunidades para continuar crescendo e contribuindo para a evolução da tecnologia.
 
-
 <table style="border-collapse: collapse; width: 100%; height: 90px;" border="0">
-<tbody>
-<tr align='center'>
-<td style="width: 99.8273%; text-align: center;"><strong>🎁&nbsp;Projetos</strong></td>
-</tr>
-
-
-
-   
-   
-   
-<tr style="height: 18px;">
-<td style="width: 99.8273%; height: 18px;"><strong><a href="https://github.com/matefs/next-empresa-generica">Next empresa genérica</a></strong></td>
-</tr>
-   
- 
-   
-  <tr style="height: 18px;">
-<td style="width: 99.8273%; text-align: left; height: 18px;"><a href="https://github.com/matefs/MENSAGERIA-FULLSTACK" rel="nofollow"><strong>Mensageria Fullstack</strong></a></td>
-</tr>
-   
-<tr style="height: 18px;">
-<td style="width: 99.8273%; text-align: left; height: 18px;"><a href="https://psmytxt.netlify.app/" rel="nofollow"><strong>Photoshop my text</strong></a></td>
-</tr>
-
-<tr style="height: 18px;">
-<td style="width: 99.8273%; height: 18px;"><a href="https://github.com/matefs/VERIFICAR-RODOVIAS-FRONTEND"><strong>Verificar Rodovias conforme Arteris</strong></a></td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 99.8273%; height: 18px;"><a href="https://github.com/matefs/calcular-juros-composto-banco-central"><strong>Calculando juros composto conforme taxa SELIC</strong></a></td>
-</tr>
-<tr>
-<td style="width: 99.8273%;"><strong><a href="https://github.com/matefs/MINHA-ASSINATURA-DIGITAL">Minha assinatura digital</a></strong></td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 99.8273%; height: 18px;"><strong><a href="https://github.com/matefs/identificador-cameras">Identificador de C&acirc;meras</a></strong></td>
-</tr>
-
-</tbody>
+  <tbody>
+    <tr align='center'>
+      <td style="width: 99.8273%; text-align: center;"><strong>🎁&nbsp;Projetos</strong></td>
+    </tr>
+    <tr style="height: 18px;">
+      <td style="width: 99.8273%; height: 18px;"><strong><a href="https://github.com/matefs/next-empresa-generica">Next empresa genérica</a></strong></td>
+    </tr>
+       <tr style="height: 18px;">
+      <td style="width: 99.8273%; height: 18px;"><strong><a href="https://github.com/matefs/react-kanban-simples">React Kanban Simples</a></strong></td>
+    </tr>
+    <tr style="height: 18px;">
+      <td style="width: 99.8273%; text-align: left; height: 18px;"><a href="https://github.com/matefs/MENSAGERIA-FULLSTACK" rel="nofollow"><strong>Mensageria Fullstack</strong></a></td>
+    </tr>
+    <tr style="height: 18px;">
+      <td style="width: 99.8273%; text-align: left; height: 18px;"><a href="https://psmytxt.netlify.app/" rel="nofollow"><strong>Photoshop my text</strong></a></td>
+    </tr>
+    <tr style="height: 18px;">
+      <td style="width: 99.8273%; height: 18px;"><a href="https://github.com/matefs/VERIFICAR-RODOVIAS-FRONTEND"><strong>Verificar Rodovias conforme Arteris</strong></a></td>
+    </tr>
+    <tr style="height: 18px;">
+      <td style="width: 99.8273%; height: 18px;"><a href="https://github.com/matefs/calcular-juros-composto-banco-central"><strong>Calculando juros composto conforme taxa SELIC</strong></a></td>
+    </tr>
+    <tr>
+      <td style="width: 99.8273%;"><strong><a href="https://github.com/matefs/MINHA-ASSINATURA-DIGITAL">Minha assinatura digital</a></strong></td>
+    </tr>
+    <tr style="height: 18px;">
+      <td style="width: 99.8273%; height: 18px;"><strong><a href="https://github.com/matefs/identificador-cameras">Identificador de Câmeras</a></strong></td>
+    </tr>
+  </tbody>
 </table>
+
  
 <h3>Artigos que escrevi:</h3>
 <ul>
