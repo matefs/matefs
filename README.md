@@ -3,7 +3,6 @@
 
 - Trabalho atualmente com Quality Assurance e tenho experiência em programação Full Stack.
 
-
 ![LinkedIn cover - 16](https://github.com/matefs/matefs/assets/30128774/0ea0b6d3-eab9-4db3-b064-44f2e2c59a04)
 
 Permita-me falar um pouco sobre mim... Sou Mateus Schverz, um entusiasta da programação atualmente cursando Análise e Desenvolvimento de Sistemas. Com experiência na área de Quality Assurance e diversos projetos desenvolvidos, tenho habilidades tanto no frontend quanto no backend. 
