@@ -58,7 +58,8 @@ Estou sempre em busca de novos desafios e oportunidades para continuar crescendo
  
 <h3>Artigos que escrevi:</h3>
 <ul>
-  <li><a href="https://www.linkedin.com/pulse/como-automatizar-tarefas-repetitivas-seu-trabalho-mateus-schverz"><b><img src="https://www.seekpng.com/png/full/42-421000_open-fire-emoji-png.png" width="20" alt="new" />  Como automatizar tarefas repetitivas no seu trabalho</b></a><br/><i> Crie atalhos e recursos para não precisar ficar sofrendo no escritório !</i></li> 
+  <li><a href="https://www.linkedin.com/pulse/explorando-o-poder-do-postman-funcionalidades-para-qas-mateus-schverz?trk=public_profile_article_view"><b><img src="https://www.seekpng.com/png/full/42-421000_open-fire-emoji-png.png" width="20" alt="new" />  Explorando o Poder do Postman: Funcionalidades para QAs e Desenvolvedores</b></a><br/><i>Descubra as funcionalidades avançadas do Postman para melhorar o processo de teste de qualidade.</i></li> 
+  <li><a href="https://www.linkedin.com/pulse/como-automatizar-tarefas-repetitivas-seu-trabalho-mateus-schverz"><b><img src="https://www.seekpng.com/png/full/42-421000_open-fire-emoji-png.png" width="20" alt="new" />  Como automatizar tarefas repetitivas no seu trabalho</b></a><br/><i>Crie atalhos e recursos para não precisar ficar sofrendo no escritório!</i></li> 
 </ul>
 
 <hr>
