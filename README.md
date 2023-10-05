@@ -25,31 +25,35 @@ Estou sempre em busca de novos desafios e oportunidades para continuar crescendo
       <td style="width: 99.8273%; text-align: center;"><strong>🎁&nbsp;Projetos</strong></td>
     </tr>
     <tr style="height: 18px;">
-      <td style="width: 99.8273%; height: 18px;"><strong><a href="https://github.com/matefs/next-empresa-generica">Next empresa genérica</a></strong></td>
+      <td style="width: 99.8273%; height: 18px;"><strong><a href="https://github.com/matefs/validador-de-arquivo-fiscal">Validador de Arquivo Fiscal</a></strong></td>
     </tr>
-       <tr style="height: 18px;">
+    <tr style="height: 18px;">
+      <td style="width: 99.8273%; height: 18px;"><strong><a href="https://github.com/matefs/next-empresa-generica">Next Empresa Genérica</a></strong></td>
+    </tr>
+    <tr style="height: 18px;">
       <td style="width: 99.8273%; height: 18px;"><strong><a href="https://github.com/matefs/react-kanban-simples">React Kanban</a></strong></td>
     </tr>
     <tr style="height: 18px;">
-      <td style="width: 99.8273%; text-align: left; height: 18px;"><a href="https://github.com/matefs/MENSAGERIA-FULLSTACK" rel="nofollow"><strong>Mensageria Fullstack</strong></a></td>
+      <td style="width: 99.8273%; text-align: left; height: 18px;"><strong><a href="https://github.com/matefs/MENSAGERIA-FULLSTACK">Mensageria Fullstack</a></strong></td>
     </tr>
     <tr style="height: 18px;">
-      <td style="width: 99.8273%; text-align: left; height: 18px;"><a href="https://psmytxt.netlify.app/" rel="nofollow"><strong>Photoshop my text</strong></a></td>
+      <td style="width: 99.8273%; text-align: left; height: 18px;"><strong><a href="https://psmytxt.netlify.app/">Photoshop My Text</a></strong></td>
     </tr>
     <tr style="height: 18px;">
-      <td style="width: 99.8273%; height: 18px;"><a href="https://github.com/matefs/VERIFICAR-RODOVIAS-FRONTEND"><strong>Verificar Rodovias conforme Arteris</strong></a></td>
+      <td style="width: 99.8273%; height: 18px;"><strong><a href="https://github.com/matefs/VERIFICAR-RODOVIAS-FRONTEND">Verificar Rodovias Conforme Arteris</a></strong></td>
     </tr>
     <tr style="height: 18px;">
-      <td style="width: 99.8273%; height: 18px;"><a href="https://github.com/matefs/calcular-juros-composto-banco-central"><strong>Calculando juros composto conforme taxa SELIC</strong></a></td>
+      <td style="width: 99.8273%; height: 18px;"><strong><a href="https://github.com/matefs/calcular-juros-composto-banco-central">Calculando Juros Composto Conforme Taxa SELIC</a></strong></td>
     </tr>
     <tr>
-      <td style="width: 99.8273%;"><strong><a href="https://github.com/matefs/MINHA-ASSINATURA-DIGITAL">Minha assinatura digital</a></strong></td>
+      <td style="width: 99.8273%;"><strong><a href="https://github.com/matefs/MINHA-ASSINATURA-DIGITAL">Minha Assinatura Digital</a></strong></td>
     </tr>
     <tr style="height: 18px;">
       <td style="width: 99.8273%; height: 18px;"><strong><a href="https://github.com/matefs/identificador-cameras">Identificador de Câmeras</a></strong></td>
     </tr>
   </tbody>
 </table>
+
 
  
 <h3>Artigos que escrevi:</h3>
