@@ -38,10 +38,7 @@ Estou sempre em busca de novos desafios e oportunidades para continuar crescendo
     </tr>
     <tr style="height: 18px;">
       <td style="width: 99.8273%; text-align: left; height: 18px;"><strong><a href="https://psmytxt.netlify.app/">Photoshop My Text</a></strong></td>
-    </tr>
-    <tr style="height: 18px;">
-      <td style="width: 99.8273%; height: 18px;"><strong><a href="https://github.com/matefs/VERIFICAR-RODOVIAS-FRONTEND">Verificar Rodovias Conforme Arteris</a></strong></td>
-    </tr>
+    </tr> 
     <tr style="height: 18px;">
       <td style="width: 99.8273%; height: 18px;"><strong><a href="https://github.com/matefs/calcular-juros-composto-banco-central">Calculando Juros Composto Conforme Taxa SELIC</a></strong></td>
     </tr>
