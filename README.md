@@ -1,7 +1,7 @@
 
 # **👨‍💻 Mateus Schverz**
 
-- Trabalho atualmente com Quality Assurance e tenho experiência em programação Full Stack.
+- Trabalho atualmente com programação Full Stack.
 
 
 
