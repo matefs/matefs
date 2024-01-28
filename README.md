@@ -12,7 +12,7 @@ Permita-me falar um pouco sobre mim... Sou Mateus Schverz, um programador atualm
 
 Aqui está um resumo das informações sobre mim:
 
-- 🔭 Atualmente, estou focado em aprimorar meus conhecimentos e buscar oportunidades na área de desenvolvimento.
+- 👨‍💻 Atualmente, estou trabalhando como desenvolvedor fullstack na empresa Logar
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 🤝 Tenho interesse em contribuir em projetos que envolvam frontend e backend, utilizando tecnologias como NodeJS e React ou Python
 - 💬 Sinta-se à vontade para me questionar sobre linguagens de programação, softskills e tecnologia em geral.
