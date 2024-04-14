@@ -42,9 +42,6 @@ Estou sempre em busca de novos desafios e oportunidades para continuar crescendo
     <tr>
       <td style="width: 99.8273%;"><strong><a href="https://github.com/matefs/MINHA-ASSINATURA-DIGITAL">Minha Assinatura Digital</a></strong></td>
     </tr>
-    <tr style="height: 18px;">
-      <td style="width: 99.8273%; height: 18px;"><strong><a href="https://github.com/matefs/identificador-cameras">Identificador de Câmeras</a></strong></td>
-    </tr>
   </tbody>
 </table>
 
