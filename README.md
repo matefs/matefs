@@ -13,8 +13,7 @@ Aqui está um resumo das informações sobre mim:
 - 👨‍💻 Atualmente, estou trabalhando como desenvolvedor fullstack na empresa Logae
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 🤝 Tenho interesse em contribuir em projetos que envolvam frontend e backend, utilizando tecnologias como NodeJS e React ou Python
-- 💬 Sinta-se à vontade para me questionar sobre linguagens de programação, softskills e tecnologia em geral.
-- ⚡ Curiosidade: Na minha empresa, eu crio as API's que eu mesmo utilizo para testar.
+- 💬 Sinta-se à vontade para me questionar sobre linguagens de programação, softskills e tecnologia em geral. 
 
 Estou sempre em busca de novos desafios e oportunidades para continuar crescendo e contribuindo para a evolução da tecnologia.
 
