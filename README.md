@@ -22,7 +22,11 @@ Estou sempre em busca de novos desafios e oportunidades para continuar crescendo
       <td style="width: 99.8273%; text-align: center;"><strong>🎁&nbsp;Projetos</strong></td>
     </tr>
         <tr style="height: 18px;">
-      <td style="width: 99.8273%; text-align: left; height: 18px;"><strong><a href="https://github.com/matefs/socket-messaging-fullstack/tree/main">Mensageria Fullstack</a></strong></td>
+      <td style="width: 99.8273%; text-align: left; height: 18px;"><strong><a href="https://github.com/matefs/api-transcricao-imagem">Imagem para texto</a></strong></td>
+    </tr>
+    </tr>
+        <tr style="height: 18px;">
+      <td style="width: 99.8273%; text-align: left; height: 18px;"><strong><a href="https://github.com/matefs/socket-messaging-fullstack/tree/main">Chat Real time</a></strong></td>
     </tr>
     <tr style="height: 18px;">
       <td style="width: 99.8273%; height: 18px;"><strong><a href="https://github.com/matefs/validador-de-arquivo-fiscal">Validador de Arquivo Fiscal</a></strong></td>
