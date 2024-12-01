@@ -9,6 +9,7 @@
   Sou Mateus Schverz, um programador cursando Análise e Desenvolvimento de Sistemas. Com experiência em Desenvolvimento Fullstack e diversos projetos, possuo habilidades em frontend e backend.
 </p>
 
+
 ## 🔍 Informações
 
 - 👨‍💻 Atualmente, estou trabalhando como desenvolvedor fullstack na **Logae**
