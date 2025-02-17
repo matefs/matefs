@@ -24,9 +24,12 @@
 ---
 
 
-## 🎁 Projetos
+## 🎁 Projetos 
 
 <table align="center">
+    <tr align="center">
+    <td><b><a href="https://github.com/matefs/Bitcoin-Price-Monitoring-Telegram-Bot">BOT investimentos TELEGRAM</a></b></td>
+  </tr>
   <tr align="center">
     <td><b><a href="https://github.com/matefs/Free-gpt-api-no-key-needed">Free GPT API</a></b></td>
   </tr>
