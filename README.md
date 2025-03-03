@@ -27,6 +27,9 @@
 ## 🎁 Projetos 
 
 <table align="center">
+      <tr align="center">
+    <td><b><a href="https://github.com/matefs/Gerador-de-diagramas-com-I.A/tree/main">Gerador de diagramas com I.A</a></b></td>
+  </tr>
     <tr align="center">
     <td><b><a href="https://github.com/matefs/Bitcoin-Price-Monitoring-Telegram-Bot">BOT investimentos TELEGRAM</a></b></td>
   </tr>
